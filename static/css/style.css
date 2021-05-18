@@ -1,0 +1,9 @@
+.col-md-12.jumbotron {
+    background-image: url("../images/bb.jpg");
+    background-size: 33.33% 100%;
+    text-align: center;
+    color: #ff0000;
+    text-shadow: 2px 2px #000000
+  }
+
+body{background-color: #cdcdcd}
